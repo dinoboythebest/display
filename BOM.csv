@@ -2,4 +2,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 Raspberry Pi Pico RP2040,1,raspberry pi,$4.00,$4.00,https://www.raspberrypi.com/products/raspberry-pi-pico/
 Waveshare 1.54-inch LCD,1,waveshare,$9.49,$9.49,https://www.waveshare.com/1.54inch-lcd-module.htm
 Custom 2-layer PCB,1,JLCPCB,$4.00,$4.00,https://cart.jlcpcb.com/quote?edaOrderUrl=https%3A%2F%2Feasyeda.com%2Forder&electropolishingOnlyNo=no&achieveDate=72
+6 mm tactile push buttons,6,digikey,$0.91,$5.46,https://www.digikey.ca/en/products/detail/aratas-formerly-omron-components/B3F-6050/368382
 Estimated total shipping,1,,,$0.00,
