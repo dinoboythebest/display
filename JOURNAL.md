@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 6h | 2 |
+| Week 4 | Tier 1 | 5.5h | 2 |
 
 ## Contents
 
@@ -33,7 +33,7 @@ Today I researched TFT screens for my handheld game console device. First off TF
 
 ### 2026-10-27: Worked on PCB for rpg console day 3
 
-**4.5h**
+**4h**
 
 Worked on PCB for rpg console day 3
 
