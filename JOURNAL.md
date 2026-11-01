@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/k778w6jynsza5fmmjfatoxic)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> making a game on the tft screen. desiging it on ki cad and coding it as well
+> making a small rpg game on the tft screen. desiging it on ki cad and coding it with thonny and vs code   as well
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
